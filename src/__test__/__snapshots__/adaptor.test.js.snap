@@ -1,0 +1,1580 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`adaptor.js should be generateDemos 1`] = `
+Array [
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "normal",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "primary",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "secondary",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "warning",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "light",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "dark",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "normal",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "primary",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "secondary",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "warning",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "light",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "dark",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "normal",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "primary",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "secondary",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "warning",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "light",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "Hello",
+        "level": "dark",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "normal",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "primary",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "secondary",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "warning",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "light",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "dark",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "normal",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "primary",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "secondary",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "warning",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "light",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "dark",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "normal",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "primary",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "secondary",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "warning",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "light",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "~Hello",
+        "level": "dark",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "normal",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "primary",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "secondary",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "warning",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "light",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "dark",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "normal",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "primary",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "secondary",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "warning",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "light",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "dark",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "normal",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "primary",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "secondary",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "warning",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "light",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "*Hello",
+        "level": "dark",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "normal",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "primary",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "secondary",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "warning",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "light",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "dark",
+        "shape": "normal",
+        "size": "large",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "normal",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "primary",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "secondary",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "warning",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "light",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "dark",
+        "shape": "normal",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "normal",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "primary",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "secondary",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "warning",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "light",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "block": false,
+        "data": "-Hello",
+        "level": "dark",
+        "shape": "normal",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "Hello",
+        "level": "normal",
+        "shape": "text",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "Hello",
+        "level": "primary",
+        "shape": "text",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "Hello",
+        "level": "normal",
+        "shape": "text",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "Hello",
+        "level": "primary",
+        "shape": "text",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "~Hello",
+        "level": "normal",
+        "shape": "text",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "~Hello",
+        "level": "primary",
+        "shape": "text",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "~Hello",
+        "level": "normal",
+        "shape": "text",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "~Hello",
+        "level": "primary",
+        "shape": "text",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "*Hello",
+        "level": "normal",
+        "shape": "text",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "*Hello",
+        "level": "primary",
+        "shape": "text",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "*Hello",
+        "level": "normal",
+        "shape": "text",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "*Hello",
+        "level": "primary",
+        "shape": "text",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "-Hello",
+        "level": "normal",
+        "shape": "text",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "-Hello",
+        "level": "primary",
+        "shape": "text",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "-Hello",
+        "level": "normal",
+        "shape": "text",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "-Hello",
+        "level": "primary",
+        "shape": "text",
+        "size": "small",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "Hello",
+        "level": "normal",
+        "shape": "list",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "Hello",
+        "level": "primary",
+        "shape": "list",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "Hello",
+        "level": "secondary",
+        "shape": "list",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "~Hello",
+        "level": "normal",
+        "shape": "list",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "~Hello",
+        "level": "primary",
+        "shape": "list",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "~Hello",
+        "level": "secondary",
+        "shape": "list",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "*Hello",
+        "level": "normal",
+        "shape": "list",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "*Hello",
+        "level": "primary",
+        "shape": "list",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "*Hello",
+        "level": "secondary",
+        "shape": "list",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "-Hello",
+        "level": "normal",
+        "shape": "list",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "-Hello",
+        "level": "primary",
+        "shape": "list",
+        "size": "medium",
+      },
+    },
+  },
+  Object {
+    "background": "transparent",
+    "node": Object {
+      "adaptor": "Button",
+      "props": Object {
+        "data": "-Hello",
+        "level": "secondary",
+        "shape": "list",
+        "size": "medium",
+      },
+    },
+  },
+]
+`;
+
+exports[`adaptor.js should be normalizeAdaptor 1`] = `
+Object {
+  "adaptor": [Function],
+  "content": [Function],
+  "demoOptions": [Function],
+  "editor": [Function],
+  "name": "Button",
+  "shape": Array [
+    Object {
+      "label": "Normal ",
+      "value": "normal",
+    },
+    Object {
+      "label": "Text Button",
+      "value": "text",
+    },
+    Object {
+      "label": "List Button",
+      "value": "list",
+    },
+  ],
+}
+`;
+
+exports[`adaptor.js should be normalizeAdaptor 2`] = `
+Object {
+  "data": Object {
+    "active": true,
+    "default": "Hello",
+    "disable": true,
+    "hover": true,
+    "icon": true,
+  },
+  "nodes": Array [],
+  "props": Array [
+    Object {
+      "default": "normal",
+      "label": "Level",
+      "name": "level",
+      "options": Array [
+        Object {
+          "label": "Normal",
+          "value": "normal",
+        },
+        Object {
+          "label": "Primary",
+          "value": "primary",
+        },
+        Object {
+          "label": "Secondary",
+          "value": "secondary",
+        },
+        Object {
+          "label": "Warning",
+          "value": "warning",
+        },
+        Object {
+          "label": "Light",
+          "value": "light",
+        },
+        Object {
+          "label": "Dark",
+          "value": "dark",
+        },
+      ],
+      "type": "enum",
+    },
+    Object {
+      "default": "medium",
+      "label": "Size",
+      "name": "size",
+      "options": Array [
+        Object {
+          "label": "Large",
+          "value": "large",
+        },
+        Object {
+          "label": "Medium",
+          "value": "medium",
+        },
+        Object {
+          "label": "Small",
+          "value": "small",
+        },
+      ],
+      "type": "enum",
+    },
+    Object {
+      "label": "Block",
+      "name": "block",
+      "options": Array [],
+      "type": "bool",
+    },
+  ],
+}
+`;
+
+exports[`adaptor.js should be normalizeAdaptor 3`] = `
+Object {
+  "options": Array [
+    Object {
+      "default": "none",
+      "label": "Icon",
+      "name": "icon",
+      "options": Array [
+        Object {
+          "label": "None",
+          "value": "none",
+        },
+        Object {
+          "label": "Left",
+          "value": "left",
+        },
+        Object {
+          "label": "Right",
+          "value": "right",
+        },
+      ],
+    },
+    Object {
+      "default": "no",
+      "label": "Group",
+      "name": "group",
+      "options": Array [
+        Object {
+          "label": "Yes",
+          "value": "yes",
+        },
+        Object {
+          "label": "No",
+          "value": "no",
+        },
+      ],
+    },
+  ],
+  "transform": [Function],
+}
+`;
+
+exports[`adaptor.js should be normalizeAdaptor 4`] = `
+Object {
+  "data": Object {
+    "active": true,
+    "default": "Hello",
+    "disable": true,
+    "hover": true,
+    "icon": true,
+  },
+  "nodes": Array [],
+  "props": Array [
+    Object {
+      "default": "normal",
+      "label": "Level",
+      "name": "level",
+      "options": Array [
+        Object {
+          "label": "Normal",
+          "value": "normal",
+        },
+        Object {
+          "label": "Primary",
+          "value": "primary",
+        },
+      ],
+      "type": "enum",
+    },
+    Object {
+      "default": "medium",
+      "label": "Size",
+      "name": "size",
+      "options": Array [
+        Object {
+          "label": "Medium",
+          "value": "medium",
+        },
+        Object {
+          "label": "Small",
+          "value": "small",
+        },
+      ],
+      "type": "enum",
+    },
+  ],
+}
+`;
+
+exports[`adaptor.js should be normalizeAdaptor 5`] = `
+Object {
+  "options": Array [
+    Object {
+      "default": "none",
+      "label": "Icon",
+      "name": "icon",
+      "options": Array [
+        Object {
+          "label": "None",
+          "value": "none",
+        },
+        Object {
+          "label": "Left",
+          "value": "left",
+        },
+        Object {
+          "label": "Right",
+          "value": "right",
+        },
+      ],
+    },
+  ],
+  "transform": [Function],
+}
+`;
+
+exports[`adaptor.js should be normalizeAdaptor 6`] = `
+Object {
+  "data": Object {
+    "active": true,
+    "default": "Hello",
+    "disable": true,
+    "hover": true,
+    "icon": true,
+  },
+  "nodes": Array [],
+  "props": Array [
+    Object {
+      "default": "normal",
+      "label": "Level",
+      "name": "level",
+      "options": Array [
+        Object {
+          "label": "Normal",
+          "value": "normal",
+        },
+        Object {
+          "label": "Primary",
+          "value": "primary",
+        },
+        Object {
+          "label": "Secondary",
+          "value": "secondary",
+        },
+      ],
+      "type": "enum",
+    },
+    Object {
+      "default": "medium",
+      "label": "Size",
+      "name": "size",
+      "options": Array [
+        Object {
+          "label": "Medium",
+          "value": "medium",
+        },
+      ],
+      "type": "enum",
+    },
+  ],
+}
+`;
+
+exports[`adaptor.js should be normalizeAdaptor 7`] = `
+Object {
+  "options": Array [
+    Object {
+      "default": "none",
+      "label": "Icon",
+      "name": "icon",
+      "options": Array [
+        Object {
+          "label": "None",
+          "value": "none",
+        },
+        Object {
+          "label": "Left",
+          "value": "left",
+        },
+        Object {
+          "label": "Right",
+          "value": "right",
+        },
+      ],
+    },
+    Object {
+      "default": "no",
+      "label": "Group",
+      "name": "group",
+      "options": Array [
+        Object {
+          "label": "Yes",
+          "value": "yes",
+        },
+        Object {
+          "label": "No",
+          "value": "no",
+        },
+      ],
+    },
+  ],
+  "transform": [Function],
+}
+`;

@@ -1,0 +1,83 @@
+{
+  "name": "@alifd/adaptor-helper",
+  "version": "0.1.0",
+  "description": "Next adaptor utils",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "unpkg": "umd/adaptor-helper.js",
+  "jsdelivr": "umd/adaptor-helper.js",
+  "typings": "types/index.d.ts",
+  "files": [
+    "umd",
+    "lib",
+    "es",
+    "src",
+    "types"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alibaba-fusion/adaptor-helper.git"
+  },
+  "keywords": [
+    "adaptor",
+    "fusion"
+  ],
+  "author": "fusion-team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alibaba-fusion/adaptor-helper/issues"
+  },
+  "scripts": {
+    "prebuild": "rimraf lib && rimraf umd && rimraf es && rimraf types",
+    "build": "npm run build:es && npm run build:modules && npm run build:types && npm run build:umd",
+    "build:types": "tsc --emitDeclarationOnly",
+    "build:modules": "cross-env babel ./src --out-dir ./lib  --extensions \".ts,.tsx\"",
+    "build:es": "cross-env BABEL_ENV=es babel ./src --out-dir ./es  --extensions \".ts,.tsx\"",
+    "build:umd": "cross-env BABEL_ENV=production-umd rollup -c ./rollup.config.js",
+    "lint": "tslint src/*.ts src/**/*.ts test/*.ts test/**/*.ts --fix",
+    "prepublishOnly": "npm run build",
+    "test": "jest",
+    "cov": "jest --coverage"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/axios": "^0.14.0",
+    "@types/debug": "^4.1.2",
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.13.4",
+    "@types/power-assert": "^1.5.0",
+    "babel-preset-power-assert": "^3.0.0",
+    "cross-env": "^5.2.0",
+    "husky": "^1.3.1",
+    "jest": "^24.7.1",
+    "lint-staged": "^8.1.5",
+    "power-assert": "^1.6.1",
+    "rimraf": "^2.6.3",
+    "rollup": "^1.10.0",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-node-resolve": "^4.2.3",
+    "ts-node": "^8.0.3",
+    "tslint": "^5.13.1",
+    "typescript": "^3.3.3333"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.ts": "tslint --fix"
+  },
+  "homepage": "https://github.com/alibaba-fusion/adaptor-helper#readme",
+  "dependencies": {
+    "@babel/cli": "^7.4.3"
+  }
+}
