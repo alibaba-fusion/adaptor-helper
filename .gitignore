@@ -68,6 +68,7 @@ precss.css
 umd/
 es/
 lib/
+types/
 coverage/
 gemini-report/
 .idea/
@@ -75,4 +76,3 @@ gemini-report/
 *.iml
 *.log
 .DS_Store
-
