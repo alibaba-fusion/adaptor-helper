@@ -196,7 +196,7 @@ let index = 1;
 const now = new Date().getTime();
 export const uuid = () => (now + index++).toString(16);
 
-const getStates = (dataOption: IDataOption = { default: "" }, props: IProp[] = []): string[] => {
+export const getStates = (dataOption: IDataOption = { default: "" }, props: IProp[] = []): string[] => {
   const stateMap: { [key: string]: boolean } = {
     normal: true,
     hover: !!dataOption.hover,
@@ -212,7 +212,7 @@ const getStates = (dataOption: IDataOption = { default: "" }, props: IProp[] = [
     states = (stateProp.options || []).map(({ value }) => value);
   }
 
-  return states || [];
+  return states || ["normal"];
 };
 
 export const generateDemos = (adaptor: IAdaptor): IDemo[] => {
@@ -222,7 +222,7 @@ export const generateDemos = (adaptor: IAdaptor): IDemo[] => {
     const sizeProp = findProp("size", editor.props);
     const stateProp = findProp("state", editor.props);
     const levelProp = findProp("level", editor.props);
-    const states = getStates(editor.data, editor.props) || ["normal"];
+    const states = getStates(editor.data, editor.props);
     const sizes = sizeProp && sizeProp.options ? sizeProp.options.map(({ value: v }) => v) : ["medium"];
     const levels = levelProp && levelProp.options ? levelProp.options.map(({ value: v }) => v) : ["normal"];
 
