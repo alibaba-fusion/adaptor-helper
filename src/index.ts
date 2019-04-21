@@ -13,4 +13,5 @@ export {
   findOptionLabel,
   uuid,
   generateDemos,
+  filterDemoState,
 } from "./adaptor";

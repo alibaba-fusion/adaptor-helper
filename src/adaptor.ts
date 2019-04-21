@@ -271,3 +271,17 @@ export const generateDemos = (adaptor: IAdaptor): IDemo[] => {
   });
   return demos;
 };
+
+export const filterDemoState = ((state: string) => {
+  return ({ node }: IDemo ) => {
+    const { props = {} } = node;
+    const { data = "" } = props;
+    let demoState = STATE_MARK[data.substring(0, 1)] || "normal";
+
+    if (props.state) {
+      demoState = props.state;
+    }
+
+    return demoState === state;
+  };
+});
