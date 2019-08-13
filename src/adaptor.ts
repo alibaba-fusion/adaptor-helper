@@ -170,10 +170,6 @@ export const getDefaultProps = (adaptor: IAdaptor, shape: string): TObject => {
     props[item.name] = defaultValue;
   });
 
-  p.nodes.forEach(({ name, default: defaultValue }) => {
-    props[name] = defaultValue;
-  });
-
   return props;
 };
 
